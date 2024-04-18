@@ -41,47 +41,47 @@ export const myskills: Skill[] = [
     {
         id: 1,
         title: 'Web Development',
-        description: 'HTML5, CSS3, JavaScript, React, Node.js',
+        description: 'A quick brown fox jumps over the lazy dog. A quick brown fox jumps over the lazy dog A qquick brown fox jumps over the lazdy dog',
     },
     {
         id: 2,
         title: 'Data Science',
-        description: 'Python, Machine Learning, Data Visualization',
+        description: 'A quick brown fox jumps over the lazy dog. A quick brown fox jumps over the lazy dog A qquick brown fox jumps over the lazdy dog',
     },
     {
-      id: 2,
+      id: 3,
       title: 'Data Science',
-      description: 'Python, Machine Learning, Data Visualization',
+      description: 'A quick brown fox jumps over the lazy dog. A quick brown fox jumps over the lazy dog A qquick brown fox jumps over the lazdy dog',
   },
   {
-    id: 2,
+    id: 4,
     title: 'Data Science',
-    description: 'Python, Machine Learning, Data Visualization',
+    description: 'A quick brown fox jumps over the lazy dog. A quick brown fox jumps over the lazy dog A qquick brown fox jumps over the lazdy dog',
 },
 {
-  id: 2,
+  id: 5,
   title: 'Data Science',
-  description: 'Python, Machine Learning, Data Visualization',
+  description: 'A quick brown fox jumps over the lazy dog. A quick brown fox jumps over the lazy dog A qquick brown fox jumps over the lazdy dog',
 },
 {
-  id: 2,
+  id: 6,
   title: 'Data Science',
-  description: 'Python, Machine Learning, Data Visualization',
+  description: 'A quick brown fox jumps over the lazy dog. A quick brown fox jumps over the lazy dog A qquick brown fox jumps over the lazdy dog',
 },
 {
-  id: 2,
+  id: 7,
   title: 'Data Science',
-  description: 'Python, Machine Learning, Data Visualization',
+  description: 'A quick brown fox jumps over the lazy dog. A quick brown fox jumps over the lazy dog A qquick brown fox jumps over the lazdy dog',
 },
 {
-  id: 2,
+  id: 8,
   title: 'Data Science',
-  description: 'Python, Machine Learning, Data Visualization',
+  description: 'A quick brown fox jumps over the lazy dog. A quick brown fox jumps over the lazy dog A qquick brown fox jumps over the lazdy dog',
 },
 {
-  id: 2,
+  id: 9,
   title: 'Data Science',
-  description: 'Python, Machine Learning, Data Visualization',
+  description: 'A quick brown fox jumps over the lazy dog. A quick brown fox jumps over the lazy dog A qquick brown fox jumps over the lazdy dog',
 },
     // Add more skills as needed
 ];

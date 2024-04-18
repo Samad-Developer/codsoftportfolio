@@ -7,9 +7,10 @@ const skills = () => {
         <h2 className='pb-10'>My Skills</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
             {myskills.map((skill: Skill) => (
-                <div key={skill.id} className="border border-[#242424] p-4 rounded-xl">
-                    <h3 className="text-lg font-semibold mb-2">{skill.title}</h3>
-                    <p className='text-[14px] font-normal'>{skill.description}</p>
+                <div key={skill.id} className="border border-[#242424] p-4 rounded-xl flex flex-col items-center">
+                    <p className='bg-white text-black rounded-full w-12 mb-8'>{skill.id}</p>
+                    <h3 className="text-[20px] font-semibold mb-2">{skill.title}</h3>
+                    <p className='text-[14px] leading-[21px] font-normal text-[#434343]'>{skill.description}</p>
                 </div>
             ))}
         </div>
