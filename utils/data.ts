@@ -30,4 +30,60 @@ export interface NavItem {
   ];
   
   export default navigation;
+
+  export interface Skill {
+    id: number;
+    title: string;
+    description: string;
+}
+
+export const myskills: Skill[] = [
+    {
+        id: 1,
+        title: 'Web Development',
+        description: 'HTML5, CSS3, JavaScript, React, Node.js',
+    },
+    {
+        id: 2,
+        title: 'Data Science',
+        description: 'Python, Machine Learning, Data Visualization',
+    },
+    {
+      id: 2,
+      title: 'Data Science',
+      description: 'Python, Machine Learning, Data Visualization',
+  },
+  {
+    id: 2,
+    title: 'Data Science',
+    description: 'Python, Machine Learning, Data Visualization',
+},
+{
+  id: 2,
+  title: 'Data Science',
+  description: 'Python, Machine Learning, Data Visualization',
+},
+{
+  id: 2,
+  title: 'Data Science',
+  description: 'Python, Machine Learning, Data Visualization',
+},
+{
+  id: 2,
+  title: 'Data Science',
+  description: 'Python, Machine Learning, Data Visualization',
+},
+{
+  id: 2,
+  title: 'Data Science',
+  description: 'Python, Machine Learning, Data Visualization',
+},
+{
+  id: 2,
+  title: 'Data Science',
+  description: 'Python, Machine Learning, Data Visualization',
+},
+    // Add more skills as needed
+];
+
   

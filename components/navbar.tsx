@@ -18,7 +18,7 @@ const Navbar = () => {
     }, []);
 
     return (
-        <div className="flex justify-between items-center sm:px-14 px-7 py-3 sm:py-4 bg-[#000000] text-[white] fixed top-0 w-full z-50 border-b border-[#333333]">
+        <div className="flex justify-between items-center sm:px-14 px-7 py-4 bg-[#000000] text-[white] fixed top-0 w-full z-50 border-b border-[#333333]">
             <Link href="/" className="text-xl font-bold">
                 Abdus Samad
             </Link>
