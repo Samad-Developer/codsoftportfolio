@@ -16,9 +16,11 @@ const about = () => {
                     <button className="bg-white hover:bg-[#CCCCCC] text-[#0a0a0a] py-3 px-5 rounded-md focus:outline-none ">
                         Contact Me
                     </button>
-                    <button className="bg-black border border-[#242424] text-white py-3 px-5 rounded-md hover:bg-[#1F1F1F] hover:text-white focus:outline-none ">
-                        My Resume
-                    </button>
+                   
+                        <a href="/myresume.pdf" download="myresume.pdf">
+                            <button className="bg-black border border-[#242424] text-white py-3 px-5 rounded-md hover:bg-[#1F1F1F] hover:text-white focus:outline-none ">Download Resume</button>
+                        </a>
+                  
                 </div>
             </div>
         </section>

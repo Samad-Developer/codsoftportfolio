@@ -21,10 +21,6 @@ export interface NavItem {
       href: '/projects',
     },
     {
-      title: 'Resume',
-      href: '/resume',
-    },
-    {
       title: 'Contact',
       href: '/contact',
     },

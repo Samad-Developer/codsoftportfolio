@@ -9,7 +9,7 @@ const project = () => {
             <h2 className="text-3xl text-center font-bold mb-6 text-white">Projects</h2>
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
                 {myprojects.map((project: Project) => (
-                    <div key={project.id} className="bg-[#1A1A1A] border border-[#444444]  shadow-lg rounded-lg overflow-hidden">
+                    <div key={project.id} className="bg-[#1A1A1A] border border-[#444444]   shadow-lg rounded-lg overflow-hidden">
                         <Image width={200} height={200} src={project.imageUrl} alt={project.title} className="w-full h-48 object-cover" />
                         <div className="p-6">
                             <h3 className="text-[20px] font-semibold text-white mb-2">{project.title}</h3>
