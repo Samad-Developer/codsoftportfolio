@@ -4,8 +4,8 @@ const about = () => {
     return (
         <section className="bg-black pt-28 sm:pt-48">
             <div className="flex flex-col space-y-4">
-                <h2 className="font-bold text-[#ededed] text-[60px] sm:text-[68px] text-center leading-[68px]">Haii I am Samad</h2>
-                <p className="text-[#888] pt-10 text-[20px] px-6 text-center md:px-32">
+                <h2 className="font-bold text-[#ededed] text-[50px] px-6 sm:text-[68px] text-center leading-[68px]">Full Stack Web Developer</h2>
+                <p className="text-[#888] pt-7 sm:pt-10 text-[20px] px-6 text-center md:px-32">
                     I'm Abdus samad, a passionate Web Developer with 2 years
                     of experience in web development. I'm highly skilled in javascript
                     and have a strong understanding of web technologies.
