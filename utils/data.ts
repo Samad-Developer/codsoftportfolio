@@ -10,19 +10,19 @@ export interface NavItem {
     },
     {
       title: 'About',
-      href: '/about',
+      href: '#about',
     },
     {
       title: 'Skills',
-      href: '/skills',
+      href: '#skills',
     },
     {
       title: 'Projects',
-      href: '/projects',
+      href: '#project',
     },
     {
       title: 'Contact',
-      href: '/contact',
+      href: '#contact',
     },
   ];
   

@@ -3,6 +3,7 @@ import About from '@/components/about'
 import Skills from '@/components/skills'
 import Project from "@/components/project";
 import Contact from '@/components/email'
+import Footer from '@/components/footer'
 export default function Home() {
   return (
     <main className="">
@@ -11,6 +12,7 @@ export default function Home() {
       <Skills/>
       <Project/>
       <Contact/>
+      <Footer/>
     </main>
   );
 }

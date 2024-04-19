@@ -26,7 +26,7 @@ const Navbar = () => {
                 <ul className="flex space-x-4 text-center text-[#D8D8D8]">
                     {
                         navigation.map((link: NavItem) => (
-                            <Link href={link.href} onClick={toggleMenu} className="">
+                            <Link href={link.href}className="">
                                 <li className='text-[14px] text-[#8e8e8e] hover:text-white'>
                                     {link.title}
                                 </li>

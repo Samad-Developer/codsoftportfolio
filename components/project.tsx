@@ -5,7 +5,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 const project = () => {
     return (
-        <div className='bg-black mx-auto sm:px-20 px-4 py-28'>
+        <div id='project' className='bg-black mx-auto sm:px-20 px-4 py-28'>
             <h2 className="text-3xl text-center font-bold mb-6 text-white">Projects</h2>
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
                 {myprojects.map((project: Project) => (

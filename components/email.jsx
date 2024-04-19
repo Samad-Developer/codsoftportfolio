@@ -39,7 +39,7 @@ const email = () => {
   };
 
   return (
-    <div className="bg-black px-4">
+    <div id='contact' className="bg-black px-4">
       <h2 className="text-3xl text-center font-bold mb-6 text-white">Contact Us</h2>
       <form onSubmit={handleSubmit} className="sm:max-w-sm mx-auto py-12 bg-black text-white rounded-lg shadow-lg">
         <div className="mb-4">
