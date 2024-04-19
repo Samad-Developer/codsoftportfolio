@@ -11,12 +11,12 @@ const Footer = () => {
         </div>
         {/* Social Media Icons */}
         <div className="flex space-x-4">
-          <Link href="https://www.linkedin.com/in/your-linkedin">
+          <Link href="https://www.linkedin.com/in/abdussamad27/">
             <span className="cursor-pointer" target="_blank" rel="noopener noreferrer">
               <Image src="/linkedin-icon.png" alt="LinkedIn" width={30} height={30} />
             </span>
           </Link>
-          <Link href="https://twitter.com/your-twitter">
+          <Link href="https://twitter.com/@abdussamad_27">
             <span className="cursor-pointer" target="_blank" rel="noopener noreferrer">
               <Image src="/twitter-icon.png" alt="Twitter" width={30} height={30} />
             </span>
