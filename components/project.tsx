@@ -16,12 +16,12 @@ const project = () => {
                             <p className="text-[14px] leading-[21px] font-normal text-[#737373] mb-4">{project.description}</p>
                             <div className="flex justify-between">
                                 <Link href={project.githubUrl} passHref>
-                                    <button type="button" className="inline-block bg-transparent border border-[#444444] text-white font-semibold py-2 px-4 rounded-lg hover:bg-blue-600 hover:text-white transition duration-300 ease-in-out">
+                                    <button type="button" className="inline-block bg-transparent border border-[#444444] text-white font-semibold py-2 px-4 rounded-lg">
                                         GitHub
                                     </button>
                                 </Link>
                                 <Link href={project.demoUrl} passHref>
-                                    <button type="button" className="inline-block bg-white text-black font-semibold py-2 px-4 rounded-lg hover:bg-blue-700 transition duration-300 ease-in-out">
+                                    <button type="button" className="inline-block bg-white text-black font-semibold py-2 px-4 rounded-lg">
                                         Demo
                                     </button>
                                 </Link>

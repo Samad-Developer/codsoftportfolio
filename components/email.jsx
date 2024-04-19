@@ -86,7 +86,7 @@ const email = () => {
         </div>
         <button
           type="submit"
-          className="inline-flex items-center px-4 py-2 border border-transparent text-base font-medium rounded-md text-white bg-[#1F1F1F]"
+          className="inline-flex items-center px-4 py-2 border border-[#444444]  text-base font-medium rounded-md text-white bg-black"
         >
           Send Message
         </button>
