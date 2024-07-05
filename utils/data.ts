@@ -38,47 +38,47 @@ export const myskills: Skill[] = [
     {
         id: 1,
         title: 'HTML',
-        description: 'A quick brown fox jumps over the lazy dog. A quick brown fox jumps over the lazy dog A qquick brown fox jumps over the lazdy dog',
+        description: 'A quick brown fox jumps over the lazy dog. A quick brown fox jumps over the lazy dog. A quick brown fox jumps over the lazdy dog',
     },
     {
         id: 2,
         title: 'CSS',
-        description: 'A quick brown fox jumps over the lazy dog. A quick brown fox jumps over the lazy dog A qquick brown fox jumps over the lazdy dog',
+        description: 'A quick brown fox jumps over the lazy dog. A quick brown fox jumps over the lazy dog A quick brown fox jumps over the lazdy dog',
     },
     {
       id: 3,
       title: 'Javascript',
-      description: 'A quick brown fox jumps over the lazy dog. A quick brown fox jumps over the lazy dog A qquick brown fox jumps over the lazdy dog',
+      description: 'A quick brown fox jumps over the lazy dog. A quick brown fox jumps over the lazy dog A quick brown fox jumps over the lazdy dog',
   },
   {
     id: 4,
     title: 'Typescript',
-    description: 'A quick brown fox jumps over the lazy dog. A quick brown fox jumps over the lazy dog A qquick brown fox jumps over the lazdy dog',
+    description: 'A quick brown fox jumps over the lazy dog. A quick brown fox jumps over the lazy dog A quick brown fox jumps over the lazdy dog',
 },
 {
   id: 5,
   title: 'Next.js',
-  description: 'A quick brown fox jumps over the lazy dog. A quick brown fox jumps over the lazy dog A qquick brown fox jumps over the lazdy dog',
+  description: 'A quick brown fox jumps over the lazy dog. A quick brown fox jumps over the lazy dog A quick brown fox jumps over the lazdy dog',
 },
 {
   id: 6,
   title: 'Reactjs',
-  description: 'A quick brown fox jumps over the lazy dog. A quick brown fox jumps over the lazy dog A qquick brown fox jumps over the lazdy dog',
+  description: 'A quick brown fox jumps over the lazy dog. A quick brown fox jumps over the lazy dog A quick brown fox jumps over the lazdy dog',
 },
 {
   id: 7,
   title: 'TailwindCSS',
-  description: 'A quick brown fox jumps over the lazy dog. A quick brown fox jumps over the lazy dog A qquick brown fox jumps over the lazdy dog',
+  description: 'A quick brown fox jumps over the lazy dog. A quick brown fox jumps over the lazy dog A quick brown fox jumps over the lazdy dog',
 },
 {
   id: 8,
   title: 'Mongodb',
-  description: 'A quick brown fox jumps over the lazy dog. A quick brown fox jumps over the lazy dog A qquick brown fox jumps over the lazdy dog',
+  description: 'A quick brown fox jumps over the lazy dog. A quick brown fox jumps over the lazy dog A quick brown fox jumps over the lazdy dog',
 },
 {
   id: 9,
   title: 'Nodejs',
-  description: 'A quick brown fox jumps over the lazy dog. A quick brown fox jumps over the lazy dog A qquick brown fox jumps over the lazdy dog',
+  description: 'A quick brown fox jumps over the lazy dog. A quick brown fox jumps over the lazy dog A quick brown fox jumps over the lazdy dog',
 },
     // Add more skills as needed
 ];
